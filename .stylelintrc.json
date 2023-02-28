@@ -1,0 +1,9 @@
+{
+  "extends": ["stylelint-config-standard", "stylelint-config-recess-order"],
+  "rules": {
+    "indentation": 2,
+    "number-leading-zero": null,
+    "selector-class-pattern": null,
+    "string-quotes": "single"
+  }
+}
